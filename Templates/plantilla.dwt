@@ -1,0 +1,54 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>examen</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<link href="../estiloplantilla.css" rel="stylesheet" type="text/css">
+<body>
+	<section>
+    <img src="../ENCABE2 PNG.png" id="logo">
+    
+    <center>
+    
+    <img src="../boton1.png" id="redes">
+    <img src="../boton2.png" id="redes">
+    <img src="../boton3.png" id="redes">
+    
+    
+    
+   	  <header id="menu">
+      <li><a href="../Inicio.html">Inicio</a></li>
+      <li><a href="../Empresa.html">Empresa</a></li>
+      <li><a href="../contactanos.html">Contactanos</a></li>
+      </header>
+    
+   			 <div id="slider">
+   					 <ul>
+                     <li><img src="../PNG1.png"></li>
+                     <li><img src="../PNG2.png"></li>
+                     <li><img src="../PNG3.png"></li>
+                     <li><img src="../PNG4.png"></li>
+                     <li><img src="../png5.png"></li>
+                     <li><img src="../PNG6.png"></li>
+                     <li><img src="../PNG7.png"></li>
+   					 </ul>
+    		</div>
+    
+    </center>
+    <center>
+    	<section id="cuerpodocumento"><!-- TemplateBeginEditable name="EditRegion3" -->Nolasco Cinthia<!-- TemplateEndEditable -->
+        
+    	</section>
+        </center>
+    		<footer>
+            <h4><img src="file:///F|/viernes/imagenes/pie.png" id="img"></h4>
+    		</footer>
+            
+    </section>
+</body>
+</html>
